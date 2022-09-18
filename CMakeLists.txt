@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cpp_segment main.cpp)
 add_subdirectory(GetMachineInfo)
+add_subdirectory(pointcloud_tools)
