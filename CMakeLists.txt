@@ -4,4 +4,4 @@ project(cpp_segment)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(cpp_segment main.cpp)
-add_subdirectory(GetCPUID)
+add_subdirectory(GetMachineInfo)
